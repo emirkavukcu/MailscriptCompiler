@@ -1,6 +1,6 @@
 %{
 #include "classes.h"
-#include "classes.tab.h"
+#include "parser.tab.h"
 
 int countNewlines(const char *str) {
     int count = 0;
