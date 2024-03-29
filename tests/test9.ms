@@ -1,0 +1,1 @@
+// Empty program is allowed as well.
